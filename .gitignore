@@ -1,0 +1,5 @@
+.venv_nix/*
+.venv_win/*
+*__pycache__*
+*.pyc
+.vscode/.*
